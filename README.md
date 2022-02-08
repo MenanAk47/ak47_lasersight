@@ -1,6 +1,6 @@
 <h1>FIVEM LASERSIGHT SCRIPT FOR WEAPON | ESX FRAMEWORK</h1>
 <p>Required minumum <a href="https://patreon.com/menanak47" target="_blank"><span style="color: #339966;">$5</span></a> of patreon membership. <a href="https://patreon.com/menanak47" target="_blank">Get your membership</a> (if you don't have already)</p>
-<p><strong>Video Showcase:</strong> <a href="https://youtu.be/OHNaZ1T91VE">YouTube</a></p>
+<p><strong>Video Showcase:</strong> <a href="https://youtu.be/LM_Pz5nD-NM">YouTube</a></p>
 <p><strong>Features: </strong></p>
 <ol>
 <li>Support server sync/ non server sync</li>
